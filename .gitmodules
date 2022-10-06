@@ -1,0 +1,12 @@
+[submodule "AndroidSource/platform/external/skia"]
+	path = AndroidSource/platform/external/skia
+	url = https://android.googlesource.com/platform/external/skia
+[submodule "AndroidSource/platform/frameworks/base"]
+	path = AndroidSource/platform/frameworks/base
+	url = https://android.googlesource.com/platform/frameworks/base
+[submodule "AndroidSource/platform/frameworks/native"]
+	path = AndroidSource/platform/frameworks/native
+	url = https://android.googlesource.com/platform/frameworks/native
+[submodule "AndroidSource/platform/system/core"]
+	path = AndroidSource/platform/system/core
+	url = https://android.googlesource.com/platform/system/core
